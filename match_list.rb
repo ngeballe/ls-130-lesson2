@@ -1,0 +1,2 @@
+
+string = "John\n"
